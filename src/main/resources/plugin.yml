@@ -1,0 +1,8 @@
+name: ToggleInvis
+version: '${project.version}'
+main: com.moon.invis.Main
+api-version: 1.18
+authors: [ Moon ]
+description: Toggle Invis
+commands:
+  invis:
